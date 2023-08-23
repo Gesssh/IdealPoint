@@ -1,0 +1,37 @@
+C:\Users\user\source\repos\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.exe
+C:\Users\user\source\repos\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.deps.json
+C:\Users\user\source\repos\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.runtimeconfig.json
+C:\Users\user\source\repos\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.runtimeconfig.dev.json
+C:\Users\user\source\repos\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.dll
+C:\Users\user\source\repos\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\ref\IdealPoint.dll
+C:\Users\user\source\repos\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.pdb
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.Form1.resources
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.csproj.GenerateResource.cache
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.AssemblyInfo.cs
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.dll
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\ref\IdealPoint.dll
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.pdb
+C:\Users\user\source\repos\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.genruntimeconfig.cache
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.exe
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.deps.json
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.runtimeconfig.json
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.runtimeconfig.dev.json
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.dll
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\ref\IdealPoint.dll
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\bin\Debug\net5.0-windows\IdealPoint.pdb
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.csproj.AssemblyReference.cache
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.csproj.GenerateResource.cache
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.GeneratedMSBuildEditorConfig.editorconfig
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.AssemblyInfoInputs.cache
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.AssemblyInfo.cs
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.csproj.CoreCompileInputs.cache
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.dll
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\ref\IdealPoint.dll
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.pdb
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.genruntimeconfig.cache
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.Form2.resources
+D:\projectsVS\программа курсовая\IdealPoint\IdealPoint\obj\Debug\net5.0-windows\IdealPoint.ManeForm.resources

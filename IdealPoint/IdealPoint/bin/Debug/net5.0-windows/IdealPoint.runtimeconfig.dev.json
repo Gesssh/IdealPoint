@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\iliac\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\iliac\\.nuget\\packages",
+      "D:\\VS SDK\\NuGetPackages"
+    ]
+  }
+}
